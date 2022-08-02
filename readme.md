@@ -23,3 +23,5 @@ For backend testing-http://localhost:3000/api/ping
 For Frontend testing- http://localhost:3001/register .And create new user
 
 Make sure that you run all scripts in the next quests on one of the containers created by "docker-compose up".Also, you can use "docker exec" to run commands on a running container.
+
+Added first item in the market
